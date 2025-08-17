@@ -13,4 +13,5 @@ An interactive analog + digital clock built using **HTML, CSS, and JavaScript**.
 2. Open `index.html` in any modern web browser.
 
 ## Live Demo
-After enabling GitHub Pages, your project will be live at:
+![Clock Preview](assets/Clock.png)
+
